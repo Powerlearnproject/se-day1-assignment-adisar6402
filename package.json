@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A software engineering project for the Power Learn course, focusing on developing, testing, and deploying a comprehensive software solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abdulrahman", 
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
